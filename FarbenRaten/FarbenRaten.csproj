@@ -75,7 +75,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="Test_Farben.zip" />
+    <None Include="Exe_Run_imZip\Test_Farben.zip" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -88,5 +88,6 @@
     <Content Include="orange.png" />
     <Content Include="rot.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
